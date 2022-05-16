@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Ali",
+      "age": "12",
+      "g_raqami": 1,
+      "g_gender": "male"
+    },
+    {
+      "name": "Salim",
+      "age": "15",
+      "g_raqami": 2,
+      "g_gender": "felamle"
+    }
+  ]
+  
